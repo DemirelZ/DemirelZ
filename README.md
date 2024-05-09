@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **zaferdemireldev@gmail.com**
 
-- 📫 Connect with me on LinkedIn **https://www.linkedin.com/in/zafer-demirel/**
-
 - ⚡ Let's make the tech world bug-free and user-friendly together!
 
 - 🚀 Happy coding!
