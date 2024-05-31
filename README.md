@@ -10,9 +10,7 @@
 
 - 🔭 I’m currently looking for a job
 
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **HTML, CSS, Bootstrap, Git&Github, JavaScript, React**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Git&Github, JavaScript, React, React Native**
 
 - 📫 How to reach me **zaferdemireldev@gmail.com**
 
